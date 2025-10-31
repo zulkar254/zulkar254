@@ -19,7 +19,7 @@
 ### 📫 Connect with Me:
 📧 **[zulkardbg1458@gmail.com](mailto:zulkardbg1458@gmail.com)**  
 💼 [**LinkedIn**](https://www.linkedin.com/in/zulkar-naine-alam)  
-🌐 [**Portfolio (Coming Soon)**]  
+🌐 [**Portfolio ( https://zulkar254.github.io/portfolio/)**]  
 📘 [**Currently Learning:** PL/SQL, Kafka, and Cloud Deployments]
 
 ---
