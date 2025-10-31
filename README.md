@@ -9,8 +9,8 @@
 ### ⚡ About Me:
 - 🎯 3.2+ years of experience in **Java Development**
 - 💼 Previously worked at **Opalina Technologies Pvt Ltd**
-- 🎓 B.Sc. in Computer Science from **Techno India College of Technology**
-- 🧠 Currently improving skills in **Production Support** and **System Optimization**
+- 🎓 B.Tech in Computer Science from **Mewar University**
+- 🧠 Currently improving skills in  **System Optimization**
 - 📍 Based in **Hyderabad, India**
 
 ---
@@ -19,7 +19,7 @@
 📧 **[zulkardbg1458@gmail.com](mailto:zulkardbg1458@gmail.com)**  
 💼 [**LinkedIn**](https://www.linkedin.com/in/zulkar-naine-alam)  
 🌐 [**Portfolio (Coming Soon)**]  
-📘 [**Learning:** Building PL/SQL + Spring Boot Banking System]
+
 
 ---
 
