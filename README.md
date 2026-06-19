@@ -7,11 +7,11 @@
 ---
 
 ### ⚡ About Me:
-- 🎯 3.2+ years of experience as a **Java Developer**
+- 🎯 4.2+ years of experience as a **Java Developer**
 - 💼 Ex–Software Engineer at **Opalina Technologies Pvt Ltd**
-- 🎓 B.Sc. in Computer Science from **Techno India College of Technology**
+- 🎓 B.Tech in Computer Science from **Mewar University**
 - 🧠 Skilled in **Backend Development**, **PL/SQL**, and **Production Support**
-- 🌍 Based in **Hyderabad, India**
+- 🌍 Based in **Mumbai, India**
 - 💬 Ask me about **Spring Boot | Microservices | PL/SQL | Docker | Kafka | RabbitMQ**
 
 ---
